@@ -7,7 +7,6 @@ namespace ConsoleApp2
         public static void Start()
         {
             var rnd = new Random();
-
             do
             {
 

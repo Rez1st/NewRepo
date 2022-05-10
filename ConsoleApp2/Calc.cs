@@ -6,6 +6,7 @@ namespace ConsoleApp2
     {
         public static void Start()
         {
+            //Added new cooment
             Console.WriteLine("Welcome to simple calculator!");
             var useCalc = true;
             var leftOperand = "Input Left operand";
