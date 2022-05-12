@@ -2,7 +2,7 @@
 
 namespace ConsoleApp2
 {
-    public static class Snake
+    public static class SnakeGame
     {
         public static void Start()
         {
